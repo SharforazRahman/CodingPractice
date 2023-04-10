@@ -1,5 +1,5 @@
 package com.HashMap;
-
+//https://leetcode.com/problems/contains-duplicate/
 import java.util.HashMap;
 
 public class ContainDuplicate {
