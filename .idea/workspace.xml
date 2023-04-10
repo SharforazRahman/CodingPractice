@@ -37,9 +37,9 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindTheDifference">
-    <configuration name="FindAllNumbersDisappearedInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindAllNumbersDisappearedInAnArray" />
+  <component name="RunManager" selected="Application.HowManyNumbersAreSmallerThanTheCurrentNumber">
+    <configuration name="FirstLetterToAppearTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FirstLetterToAppearTwice" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindTheDifference" />
+    <configuration name="FirstMissingPositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FirstMissingPositiveNumber" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElementTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.MajorityElementTwo" />
+    <configuration name="HowManyNumbersAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.HowManyNumbersAreSmallerThanTheCurrentNumber" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.MissingNumber" />
+    <configuration name="KthDistinctStringInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.KthDistinctStringInAnArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElementOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.NextGreaterElementOne" />
+    <configuration name="UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.UniqueNumberOfOccurrences" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindTheDifference" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.FindAllNumbersDisappearedInAnArray" />
-        <item itemvalue="Application.NextGreaterElementOne" />
-        <item itemvalue="Application.MajorityElementTwo" />
+        <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
+        <item itemvalue="Application.UniqueNumberOfOccurrences" />
+        <item itemvalue="Application.FirstMissingPositiveNumber" />
+        <item itemvalue="Application.FirstLetterToAppearTwice" />
+        <item itemvalue="Application.KthDistinctStringInAnArray" />
       </list>
     </recent_temporary>
   </component>
