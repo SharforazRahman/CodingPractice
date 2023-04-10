@@ -1,7 +1,6 @@
 package com.HashMap;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class GreatestEnglishLetterInUpperAndLowerCase {
     public static void main(String[] args) {
