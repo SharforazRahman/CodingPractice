@@ -37,9 +37,9 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RelativeSortArray">
-    <configuration name="HowManyNumbersAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.HowManyNumbersAreSmallerThanTheCurrentNumber" />
+  <component name="RunManager" selected="Application.MostFrequentEvenElement">
+    <configuration name="CountTheNumberOfConsistentStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.CountTheNumberOfConsistentStrings" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +51,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeepMultiplyingFoundValuesByTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.KeepMultiplyingFoundValuesByTwo" />
+    <configuration name="FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FirstUniqueCharacterInString" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthMissingPositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.KthMissingPositiveNumber" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostFrequentEvenElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.MostFrequentEvenElement" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -77,39 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.UniqueNumberOfOccurrences" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.WordPattern" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MostFrequentEvenElement" />
+        <item itemvalue="Application.FirstUniqueCharacterInString" />
+        <item itemvalue="Application.KthMissingPositiveNumber" />
+        <item itemvalue="Application.CountTheNumberOfConsistentStrings" />
         <item itemvalue="Application.RelativeSortArray" />
-        <item itemvalue="Application.KeepMultiplyingFoundValuesByTwo" />
-        <item itemvalue="Application.WordPattern" />
-        <item itemvalue="Application.HowManyNumbersAreSmallerThanTheCurrentNumber" />
-        <item itemvalue="Application.UniqueNumberOfOccurrences" />
       </list>
     </recent_temporary>
   </component>
