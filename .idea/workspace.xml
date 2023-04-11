@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HashMap/MostFrequentEvenElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/MostFrequentEvenElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,9 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MostFrequentEvenElement">
-    <configuration name="CountTheNumberOfConsistentStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.CountTheNumberOfConsistentStrings" />
+  <component name="RunManager" selected="Application.LengthOfTheLongestAlphabeticalContinuousSubstring">
+    <configuration name="CountCommonWordsWithOneOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.CountCommonWordsWithOneOccurrence" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +65,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthMissingPositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.KthMissingPositiveNumber" />
+    <configuration name="LengthOfTheLongestAlphabeticalContinuousSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.LengthOfTheLongestAlphabeticalContinuousSubstring" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.LongestConsecutiveSequence" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -90,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.RelativeSortArray" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfTheLongestAlphabeticalContinuousSubstring" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
+        <item itemvalue="Application.CountCommonWordsWithOneOccurrence" />
         <item itemvalue="Application.MostFrequentEvenElement" />
         <item itemvalue="Application.FirstUniqueCharacterInString" />
-        <item itemvalue="Application.KthMissingPositiveNumber" />
-        <item itemvalue="Application.CountTheNumberOfConsistentStrings" />
-        <item itemvalue="Application.RelativeSortArray" />
       </list>
     </recent_temporary>
   </component>
