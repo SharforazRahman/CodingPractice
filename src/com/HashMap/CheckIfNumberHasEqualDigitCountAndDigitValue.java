@@ -1,5 +1,5 @@
 package com.HashMap;
-
+//https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/
 import java.util.HashMap;
 
 public class CheckIfNumberHasEqualDigitCountAndDigitValue {
