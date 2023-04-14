@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HashMap/NextGreaterElementOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/NextGreaterElementOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HashMap/RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/RelativeSortArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentsAttendanceRecordOne">
+  <component name="RunManager" selected="Application.NextGreaterElementOnRight">
     <configuration name="CountOfMatchesInTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Math.CountOfMatchesInTournament" />
       <module name="CodingPractice" />
@@ -51,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangingIpAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.DefangingIpAddress" />
+    <configuration name="NextGreaterElementOnRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Stack.NextGreaterElementOnRight" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +66,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindIndexOfFirstOccurrenceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.FindIndexOfFirstOccurrenceInString" />
+    <configuration name="NextGreaterElementOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.NextGreaterElementOne" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.RelativeSortArray" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.ValidPalindrome" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextGreaterElementOnRight" />
+        <item itemvalue="Application.NextGreaterElementOne" />
+        <item itemvalue="Application.RelativeSortArray" />
         <item itemvalue="Application.StudentsAttendanceRecordOne" />
         <item itemvalue="Application.CountOfMatchesInTournament" />
-        <item itemvalue="Application.DefangingIpAddress" />
-        <item itemvalue="Application.FindIndexOfFirstOccurrenceInString" />
-        <item itemvalue="Application.ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
