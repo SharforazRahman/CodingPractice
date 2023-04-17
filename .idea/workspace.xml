@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HashMap/NextGreaterElementOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/NextGreaterElementOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HashMap/RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/RelativeSortArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +37,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NextGreaterElementOnRight">
-    <configuration name="CountOfMatchesInTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Math.CountOfMatchesInTournament" />
+  <component name="RunManager" selected="Application.CheckIfWordOccursAsPrefixOfAnyWordInSentence">
+    <configuration name="CanMakeArithmeticProgressionFromSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sorting.CanMakeArithmeticProgressionFromSequence" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Math.*" />
+          <option name="PATTERN" value="com.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,47 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElementOnRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.NextGreaterElementOnRight" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextGreaterElementOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.NextGreaterElementOne" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RelativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.RelativeSortArray" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentsAttendanceRecordOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.StudentsAttendanceRecordOne" />
+    <configuration name="CheckIfWordOccursAsPrefixOfAnyWordInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.CheckIfWordOccursAsPrefixOfAnyWordInSentence" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +64,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CountPrefixOfGivenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.CountPrefixOfGivenNumber" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.SingleNumber" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Math.SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Math.SingleNumber" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NextGreaterElementOnRight" />
-        <item itemvalue="Application.NextGreaterElementOne" />
-        <item itemvalue="Application.RelativeSortArray" />
-        <item itemvalue="Application.StudentsAttendanceRecordOne" />
-        <item itemvalue="Application.CountOfMatchesInTournament" />
+        <item itemvalue="Application.CheckIfWordOccursAsPrefixOfAnyWordInSentence" />
+        <item itemvalue="Application.CanMakeArithmeticProgressionFromSequence" />
+        <item itemvalue="Application.com.Math.SingleNumber" />
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.CountPrefixOfGivenNumber" />
       </list>
     </recent_temporary>
   </component>
