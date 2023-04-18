@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/HashMap/ReplaceWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/ReplaceWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,26 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MakeTheString">
+  <component name="RunManager" selected="Application.FindAndReplacePattern">
     <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Stack.BackspaceStringCompare" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAndReplacePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindAndReplacePattern" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSpan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.StockSpan" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAndReplacePattern" />
         <item itemvalue="Application.MakeTheString" />
         <item itemvalue="Application.BackspaceStringCompare" />
         <item itemvalue="Application.RemoveAllDuplicateAdjacentString" />
         <item itemvalue="Application.RemovingStarsFromString" />
-        <item itemvalue="Application.StockSpan" />
       </list>
     </recent_temporary>
   </component>
