@@ -24,7 +24,6 @@ public class LeastNumberOfUniqueIntegerAfterKRemovals {
         while (k > 0) k = k - pq.remove().freq;
 
         return k < 0 ? pq.size() + 1 : pq.size();
-        ;
     }
 
     public static class pair implements Comparable<pair> {
