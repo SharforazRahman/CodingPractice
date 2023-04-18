@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HashMap/ReplaceWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/HashMap/ReplaceWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OverrideImplement.generate.javadoc": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Github/CodingPractice"
   }
-}</component>
-  <component name="RunManager" selected="Application.FindAndReplacePattern">
-    <configuration name="BackspaceStringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.BackspaceStringCompare" />
+}]]></component>
+  <component name="RunManager" selected="Application.com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals">
+    <configuration name="FinalValueOfVariableAfterPerfomingOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.FinalValueOfVariableAfterPerfomingOperation" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
+          <option name="PATTERN" value="com.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAndReplacePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindAndReplacePattern" />
+    <configuration name="FindCenterOfStarGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindCenterOfStarGraph" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.MakeTheString" />
+    <configuration name="LeastNumberOfUniqueIntegerAfterKRemovals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.LeastNumberOfUniqueIntegerAfterKRemovals" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllDuplicateAdjacentString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.RemoveAllDuplicateAdjacentString" />
+    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.ShuffleArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingStarsFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Stack.RemovingStarsFromString" />
+    <configuration name="com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Stack.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindAndReplacePattern" />
-        <item itemvalue="Application.MakeTheString" />
-        <item itemvalue="Application.BackspaceStringCompare" />
-        <item itemvalue="Application.RemoveAllDuplicateAdjacentString" />
-        <item itemvalue="Application.RemovingStarsFromString" />
+        <item itemvalue="Application.com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" />
+        <item itemvalue="Application.LeastNumberOfUniqueIntegerAfterKRemovals" />
+        <item itemvalue="Application.FindCenterOfStarGraph" />
+        <item itemvalue="Application.ShuffleArray" />
+        <item itemvalue="Application.FinalValueOfVariableAfterPerfomingOperation" />
       </list>
     </recent_temporary>
   </component>
