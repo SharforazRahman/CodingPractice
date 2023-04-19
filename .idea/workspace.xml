@@ -31,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "OverrideImplement.generate.javadoc": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Github/CodingPractice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals">
-    <configuration name="FinalValueOfVariableAfterPerfomingOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.FinalValueOfVariableAfterPerfomingOperation" />
+}</component>
+  <component name="RunManager" selected="Application.SortCharacterByFrequency">
+    <configuration name="FindKthLargestIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.FindKthLargestIntegerInArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCenterOfStarGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindCenterOfStarGraph" />
+    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.KthLargestElementInArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeastNumberOfUniqueIntegerAfterKRemovals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.LeastNumberOfUniqueIntegerAfterKRemovals" />
+    <configuration name="RelativeRanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sorting.RelativeRanks" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.ShuffleArray" />
+    <configuration name="SortCharacterByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.SortCharacterByFrequency" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" />
+    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.ThirdMaximum" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.HeapPriorityQueue.LeastNumberOfUniqueIntegerAfterKRemovals" />
-        <item itemvalue="Application.LeastNumberOfUniqueIntegerAfterKRemovals" />
-        <item itemvalue="Application.FindCenterOfStarGraph" />
-        <item itemvalue="Application.ShuffleArray" />
-        <item itemvalue="Application.FinalValueOfVariableAfterPerfomingOperation" />
+        <item itemvalue="Application.SortCharacterByFrequency" />
+        <item itemvalue="Application.ThirdMaximum" />
+        <item itemvalue="Application.FindKthLargestIntegerInArray" />
+        <item itemvalue="Application.KthLargestElementInArray" />
+        <item itemvalue="Application.RelativeRanks" />
       </list>
     </recent_temporary>
   </component>
