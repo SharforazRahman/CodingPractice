@@ -31,15 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OverrideImplement.generate.javadoc": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Github/CodingPractice",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.RemoveStonesToMinimizeTheTotal">
+}]]></component>
+  <component name="RunManager" selected="Application.FIndSubsequenceOfLengthKWithLargestSum">
     <configuration name="FIndSubsequenceOfLengthKWithLargestSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.FIndSubsequenceOfLengthKWithLargestSum" />
       <module name="CodingPractice" />
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelativeRanks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Sorting.RelativeRanks" />
+    <configuration name="MaximumProductsAfterKIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.MaximumProductsAfterKIncrement" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Sorting.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.ShuffleArray" />
+    <configuration name="TakeGiftFromRichestPile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.TakeGiftFromRichestPile" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FIndSubsequenceOfLengthKWithLargestSum" />
+        <item itemvalue="Application.MaximumProductsAfterKIncrement" />
+        <item itemvalue="Application.TakeGiftFromRichestPile" />
         <item itemvalue="Application.RemoveStonesToMinimizeTheTotal" />
         <item itemvalue="Application.KthSmallestElementInSortedMatrix" />
-        <item itemvalue="Application.ShuffleArray" />
-        <item itemvalue="Application.RelativeRanks" />
-        <item itemvalue="Application.FIndSubsequenceOfLengthKWithLargestSum" />
       </list>
     </recent_temporary>
   </component>
