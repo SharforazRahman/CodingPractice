@@ -39,9 +39,9 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Github/CodingPractice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortCharacterByFrequency">
-    <configuration name="FindKthLargestIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.FindKthLargestIntegerInArray" />
+  <component name="RunManager" selected="Application.RemoveStonesToMinimizeTheTotal">
+    <configuration name="FIndSubsequenceOfLengthKWithLargestSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.FIndSubsequenceOfLengthKWithLargestSum" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.KthLargestElementInArray" />
+    <configuration name="KthSmallestElementInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.KthSmallestElementInSortedMatrix" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCharacterByFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.SortCharacterByFrequency" />
+    <configuration name="RemoveStonesToMinimizeTheTotal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.RemoveStonesToMinimizeTheTotal" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.ThirdMaximum" />
+    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.ShuffleArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortCharacterByFrequency" />
-        <item itemvalue="Application.ThirdMaximum" />
-        <item itemvalue="Application.FindKthLargestIntegerInArray" />
-        <item itemvalue="Application.KthLargestElementInArray" />
+        <item itemvalue="Application.RemoveStonesToMinimizeTheTotal" />
+        <item itemvalue="Application.KthSmallestElementInSortedMatrix" />
+        <item itemvalue="Application.ShuffleArray" />
         <item itemvalue="Application.RelativeRanks" />
+        <item itemvalue="Application.FIndSubsequenceOfLengthKWithLargestSum" />
       </list>
     </recent_temporary>
   </component>
