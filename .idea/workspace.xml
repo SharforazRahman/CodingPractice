@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/HeapPriorityQueue/SenderWithLargestWordCount.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,52 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinimumOperationToHalveArraySum">
-    <configuration name="FindKPairsWithSmallestSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.FindKPairsWithSmallestSums" />
+  <component name="RunManager" selected="Application.FindWordsThatCanBeFormedByCharacters">
+    <configuration name="AverageValueOfEvenNumberThatAreDivisibleByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Math.AverageValueOfEvenNumberThatAreDivisibleByThree" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
+          <option name="PATTERN" value="com.Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.EqualSumOfDigits" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindWordsThatCanBeFormedByCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.FindWordsThatCanBeFormedByCharacters" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongPressedName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.LongPressedName" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,52 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.HeapPriorityQueue.SenderWithLargestWordCount (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.SenderWithLargestWordCount" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.HeapPriorityQueue.SenderWithLargestWordCount (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.SenderWithLargestWordCount" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.HeapPriorityQueue.SenderWithLargestWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.SenderWithLargestWordCount" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindWordsThatCanBeFormedByCharacters" />
+        <item itemvalue="Application.LongPressedName" />
+        <item itemvalue="Application.AverageValueOfEvenNumberThatAreDivisibleByThree" />
+        <item itemvalue="Application.EqualSumOfDigits" />
         <item itemvalue="Application.MinimumOperationToHalveArraySum" />
-        <item itemvalue="Application.FindKPairsWithSmallestSums" />
-        <item itemvalue="Application.com.HeapPriorityQueue.SenderWithLargestWordCount" />
-        <item itemvalue="Application.com.HeapPriorityQueue.SenderWithLargestWordCount (2)" />
-        <item itemvalue="Application.com.HeapPriorityQueue.SenderWithLargestWordCount (1)" />
       </list>
     </recent_temporary>
   </component>
