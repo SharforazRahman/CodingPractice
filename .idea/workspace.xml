@@ -40,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinimumNumberOfCoinYouCanGet">
-    <configuration name="ANumberAfterDoubleReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.ANumberAfterDoubleReversal" />
+  <component name="RunManager" selected="Application.ArithmeticSubArray">
+    <configuration name="ArithmeticSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.ArithmeticSubArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetermineIfStringHalvesAreLike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.DetermineIfStringHalvesAreLike" />
+    <configuration name="AverageSalaryExcludingMinimumAndMaximumSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.AverageSalaryExcludingMinimumAndMaximumSalary" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumNumberOfCoinYouCanGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Sorting.MinimumNumberOfCoinYouCanGet" />
+    <configuration name="H_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sorting.H_Index" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Math.PlusOne" />
+    <configuration name="MaximumNumberOfVowelsInSubstringOfGivenLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.MaximumNumberOfVowelsInSubstringOfGivenLength" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Math.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RankTransformOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.RankTransformOfArray" />
+    <configuration name="jumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Greedy.jumpGame" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinimumNumberOfCoinYouCanGet" />
-        <item itemvalue="Application.DetermineIfStringHalvesAreLike" />
-        <item itemvalue="Application.PlusOne" />
-        <item itemvalue="Application.ANumberAfterDoubleReversal" />
-        <item itemvalue="Application.RankTransformOfArray" />
+        <item itemvalue="Application.ArithmeticSubArray" />
+        <item itemvalue="Application.MaximumNumberOfVowelsInSubstringOfGivenLength" />
+        <item itemvalue="Application.AverageSalaryExcludingMinimumAndMaximumSalary" />
+        <item itemvalue="Application.H_Index" />
+        <item itemvalue="Application.jumpGame" />
       </list>
     </recent_temporary>
   </component>
