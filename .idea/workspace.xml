@@ -40,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArithmeticSubArray">
-    <configuration name="ArithmeticSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.ArithmeticSubArray" />
+  <component name="RunManager" selected="Application.CountNumberOfDistinctIntegersAfterReverseOperations">
+    <configuration name="CountNumberOfDistinctIntegersAfterReverseOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.CountNumberOfDistinctIntegersAfterReverseOperations" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageSalaryExcludingMinimumAndMaximumSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.AverageSalaryExcludingMinimumAndMaximumSalary" />
+    <configuration name="ElementAppearingMoreThan25PercentageInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.ElementAppearingMoreThan25PercentageInSortedArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,21 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Sorting.H_Index" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumNumberOfVowelsInSubstringOfGivenLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.MaximumNumberOfVowelsInSubstringOfGivenLength" />
+    <configuration name="maximumSumOfDistinctSubArraysWithLengthK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.maximumSumOfDistinctSubArraysWithLengthK" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -93,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Greedy.jumpGame" />
+    <configuration name="plusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.plusOne" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Greedy.*" />
+          <option name="PATTERN" value="com.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.toLowerCase" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticSubArray" />
-        <item itemvalue="Application.MaximumNumberOfVowelsInSubstringOfGivenLength" />
-        <item itemvalue="Application.AverageSalaryExcludingMinimumAndMaximumSalary" />
-        <item itemvalue="Application.H_Index" />
-        <item itemvalue="Application.jumpGame" />
+        <item itemvalue="Application.CountNumberOfDistinctIntegersAfterReverseOperations" />
+        <item itemvalue="Application.plusOne" />
+        <item itemvalue="Application.ElementAppearingMoreThan25PercentageInSortedArray" />
+        <item itemvalue="Application.toLowerCase" />
+        <item itemvalue="Application.maximumSumOfDistinctSubArraysWithLengthK" />
       </list>
     </recent_temporary>
   </component>
