@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountNumberOfDistinctIntegersAfterReverseOperations">
+  <component name="RunManager" selected="Application.ShuffleString">
     <configuration name="CountNumberOfDistinctIntegersAfterReverseOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.HashMap.CountNumberOfDistinctIntegersAfterReverseOperations" />
       <module name="CodingPractice" />
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximumSumOfDistinctSubArraysWithLengthK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.maximumSumOfDistinctSubArraysWithLengthK" />
+    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.ShuffleString" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.toLowerCase" />
+    <configuration name="separateTheDigitsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.separateTheDigitsInAnArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuffleString" />
+        <item itemvalue="Application.separateTheDigitsInAnArray" />
         <item itemvalue="Application.CountNumberOfDistinctIntegersAfterReverseOperations" />
         <item itemvalue="Application.plusOne" />
         <item itemvalue="Application.ElementAppearingMoreThan25PercentageInSortedArray" />
-        <item itemvalue="Application.toLowerCase" />
-        <item itemvalue="Application.maximumSumOfDistinctSubArraysWithLengthK" />
       </list>
     </recent_temporary>
   </component>
