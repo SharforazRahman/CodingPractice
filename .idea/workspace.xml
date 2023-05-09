@@ -40,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShuffleString">
-    <configuration name="CountNumberOfDistinctIntegersAfterReverseOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.CountNumberOfDistinctIntegersAfterReverseOperations" />
+  <component name="RunManager" selected="Application.SplitStringInBalancedStrings">
+    <configuration name="FirstNegativeIntegerInEveryWindowSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.FirstNegativeIntegerInEveryWindowSizeK" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,47 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementAppearingMoreThan25PercentageInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.ElementAppearingMoreThan25PercentageInSortedArray" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HeapPriorityQueue.ShuffleString" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.HeapPriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="plusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.plusOne" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="separateTheDigitsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.separateTheDigitsInAnArray" />
+    <configuration name="SplitStringInBalancedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.SplitStringInBalancedStrings" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +67,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="checkIfSentenceIsPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.String.checkIfSentenceIsPangram" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findLuckyIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HashMap.findLuckyIntegerInArray" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threeConsecutiveOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.threeConsecutiveOdds" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShuffleString" />
-        <item itemvalue="Application.separateTheDigitsInAnArray" />
-        <item itemvalue="Application.CountNumberOfDistinctIntegersAfterReverseOperations" />
-        <item itemvalue="Application.plusOne" />
-        <item itemvalue="Application.ElementAppearingMoreThan25PercentageInSortedArray" />
+        <item itemvalue="Application.SplitStringInBalancedStrings" />
+        <item itemvalue="Application.findLuckyIntegerInArray" />
+        <item itemvalue="Application.threeConsecutiveOdds" />
+        <item itemvalue="Application.checkIfSentenceIsPangram" />
+        <item itemvalue="Application.FirstNegativeIntegerInEveryWindowSizeK" />
       </list>
     </recent_temporary>
   </component>
