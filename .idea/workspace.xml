@@ -40,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SplitStringInBalancedStrings">
-    <configuration name="FirstNegativeIntegerInEveryWindowSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.FirstNegativeIntegerInEveryWindowSizeK" />
+  <component name="RunManager" selected="Application.minimumSizeSubArraySum">
+    <configuration name="FindKLengthSubstringWithNoRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.FindKLengthSubstringWithNoRepeatingCharacters" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitStringInBalancedStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.SplitStringInBalancedStrings" />
+    <configuration name="LongestSubstringWithKUniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.LongestSubstringWithKUniqueCharacters" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkIfSentenceIsPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.checkIfSentenceIsPangram" />
+    <configuration name="countNumberOfNiceSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.countNumberOfNiceSubArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findLuckyIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.findLuckyIntegerInArray" />
+    <configuration name="minimumAverageDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.minimumAverageDifference" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="threeConsecutiveOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.threeConsecutiveOdds" />
+    <configuration name="minimumSizeSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.minimumSizeSubArraySum" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SplitStringInBalancedStrings" />
-        <item itemvalue="Application.findLuckyIntegerInArray" />
-        <item itemvalue="Application.threeConsecutiveOdds" />
-        <item itemvalue="Application.checkIfSentenceIsPangram" />
-        <item itemvalue="Application.FirstNegativeIntegerInEveryWindowSizeK" />
+        <item itemvalue="Application.minimumSizeSubArraySum" />
+        <item itemvalue="Application.LongestSubstringWithKUniqueCharacters" />
+        <item itemvalue="Application.countNumberOfNiceSubArray" />
+        <item itemvalue="Application.FindKLengthSubstringWithNoRepeatingCharacters" />
+        <item itemvalue="Application.minimumAverageDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +137,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/SlidingWindow/maximumSumOfDistinctSubArraysWithLengthK.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
