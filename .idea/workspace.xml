@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Math/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Math/PerfectNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.singleNumberThree">
-    <configuration name="DistinctNumbersInEachSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.DistinctNumbersInEachSubArray" />
+  <component name="RunManager" selected="Application.TheKthFactorOfN">
+    <configuration name="MaximumMatchingOfPlayerWithTrainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sorting.MaximumMatchingOfPlayerWithTrainers" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="PATTERN" value="com.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fruitsIntoBaskets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.fruitsIntoBaskets" />
+    <configuration name="NumberOfGoodPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Math.NumberOfGoodPairs" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="PATTERN" value="com.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximumSumOfDistinctSubArraysWithLengthK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.maximumSumOfDistinctSubArraysWithLengthK" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Math.PerfectNumber" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="PATTERN" value="com.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minimumSizeSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.minimumSizeSubArraySum" />
+    <configuration name="TheKthFactorOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Math.TheKthFactorOfN" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="PATTERN" value="com.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleNumberThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.singleNumberThree" />
+    <configuration name="minimumAverageDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.minimumAverageDifference" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.singleNumberThree" />
-        <item itemvalue="Application.maximumSumOfDistinctSubArraysWithLengthK" />
-        <item itemvalue="Application.DistinctNumbersInEachSubArray" />
-        <item itemvalue="Application.fruitsIntoBaskets" />
-        <item itemvalue="Application.minimumSizeSubArraySum" />
+        <item itemvalue="Application.TheKthFactorOfN" />
+        <item itemvalue="Application.NumberOfGoodPairs" />
+        <item itemvalue="Application.MaximumMatchingOfPlayerWithTrainers" />
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.minimumAverageDifference" />
       </list>
     </recent_temporary>
   </component>
