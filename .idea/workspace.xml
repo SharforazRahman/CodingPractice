@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b815971-a65b-4c1e-9bc5-4a364a0b8784" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Math/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Math/PerfectNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TheKthFactorOfN">
+  <component name="RunManager" selected="Application.DistinctNumbersInEachSubArray">
+    <configuration name="DistinctNumbersInEachSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.DistinctNumbersInEachSubArray" />
+      <module name="CodingPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SlidingWindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumMatchingOfPlayerWithTrainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Sorting.MaximumMatchingOfPlayerWithTrainers" />
       <module name="CodingPractice" />
@@ -68,19 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Math.PerfectNumber" />
-      <module name="CodingPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TheKthFactorOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Math.TheKthFactorOfN" />
       <module name="CodingPractice" />
@@ -94,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minimumAverageDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.minimumAverageDifference" />
+    <configuration name="countNumberOfNiceSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SlidingWindow.countNumberOfNiceSubArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistinctNumbersInEachSubArray" />
+        <item itemvalue="Application.countNumberOfNiceSubArray" />
         <item itemvalue="Application.TheKthFactorOfN" />
         <item itemvalue="Application.NumberOfGoodPairs" />
         <item itemvalue="Application.MaximumMatchingOfPlayerWithTrainers" />
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.minimumAverageDifference" />
       </list>
     </recent_temporary>
   </component>
