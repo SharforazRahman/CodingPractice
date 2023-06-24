@@ -40,13 +40,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaximumNumberOfVowelsInSubstringOfGivenLength">
-    <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.BuildArrayFromPermutation" />
+  <component name="RunManager" selected="Application.BalancedBrackets">
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Stack.BalancedBrackets" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoalParserInterpretation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.GoalParserInterpretation" />
+    <configuration name="DuplicateBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Stack.DuplicateBrackets" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberOfVowelsInSubstringOfGivenLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.String.MaximumNumberOfVowelsInSubstringOfGivenLength" />
+    <configuration name="ImplementQueueUsingArray (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Queue.ImplementQueueUsingArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.String.*" />
+          <option name="PATTERN" value="com.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.SortColors" />
+    <configuration name="ImplementQueueUsingArray (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Queue.ImplementQueueUsingArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.HashMap.LargestPositiveIntegerThatExistWithItsNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.HashMap.LargestPositiveIntegerThatExistWithItsNegative" />
+    <configuration name="ImplementQueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Queue.ImplementQueueUsingArray" />
       <module name="CodingPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.HashMap.*" />
+          <option name="PATTERN" value="com.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumNumberOfVowelsInSubstringOfGivenLength" />
-        <item itemvalue="Application.SortColors" />
-        <item itemvalue="Application.GoalParserInterpretation" />
-        <item itemvalue="Application.BuildArrayFromPermutation" />
-        <item itemvalue="Application.com.HashMap.LargestPositiveIntegerThatExistWithItsNegative" />
+        <item itemvalue="Application.BalancedBrackets" />
+        <item itemvalue="Application.DuplicateBrackets" />
+        <item itemvalue="Application.ImplementQueueUsingArray (5)" />
+        <item itemvalue="Application.ImplementQueueUsingArray" />
+        <item itemvalue="Application.ImplementQueueUsingArray (4)" />
       </list>
     </recent_temporary>
   </component>
